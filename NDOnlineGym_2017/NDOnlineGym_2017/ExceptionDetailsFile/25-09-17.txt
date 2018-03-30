@@ -1,0 +1,216 @@
+-----------Exception Details on  2017-09-25 11:50:57 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-25 11:50:57 AM
+
+Error Line No : line 72
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=14995; handshake=2; 
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-25 12:22:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-25 12:22:31 PM
+
+Error Line No : line 72
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=15306; handshake=22; 
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-25 12:26:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-25 12:26:08 PM
+
+Error Line No : ine 219
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: http://localhost:1225/AddEnquiry.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-25 12:26:10 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-25 12:26:10 PM
+
+Error Line No : ine 318
+
+Error Message: SqlTypeException
+
+Exception Type: System.Data.SqlTypes.SqlTypeException
+
+Error Location : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+ Error Page Url: http://localhost:1225/AddEnquiry.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-25 12:26:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-25 12:26:31 PM
+
+Error Line No : ine 219
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: http://localhost:1225/AddEnquiry.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-25 12:26:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-25 12:26:31 PM
+
+Error Line No : ine 318
+
+Error Message: SqlTypeException
+
+Exception Type: System.Data.SqlTypes.SqlTypeException
+
+Error Location : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+ Error Page Url: http://localhost:1225/AddEnquiry.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-25 12:32:37 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-25 12:32:37 PM
+
+Error Line No : line 72
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-25 6:22:16 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-25 6:22:16 PM
+
+Error Line No : line 44
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'USER'.
+
+ Error Page Url: http://localhost:1225/demoCourse.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-25 6:25:22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-25 6:25:22 PM
+
+Error Line No : line 44
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'USER'.
+
+ Error Page Url: http://localhost:1225/demoCourse.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

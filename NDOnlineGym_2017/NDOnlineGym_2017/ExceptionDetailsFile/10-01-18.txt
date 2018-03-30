@@ -1,0 +1,72 @@
+-----------Exception Details on  2018-01-10 2:44:00 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2018-01-10 2:44:00 PM
+
+Error Line No : ine 704
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx?MenuEnquDetails=MenuEnqDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2018-01-10 2:44:10 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2018-01-10 2:44:10 PM
+
+Error Line No : ine 704
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx?Enq_AutoID=0+&MenuEnquDetails=MenuEnquDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2018-01-10 3:18:05 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2018-01-10 3:18:05 PM
+
+Error Line No : ine 704
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx?MenuEnquDetails=MenuEnqDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

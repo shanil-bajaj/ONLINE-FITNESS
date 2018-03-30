@@ -1,0 +1,770 @@
+-----------Exception Details on  2017-10-30 1:48:21 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 1:48:21 PM
+
+Error Line No : line 96
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Staff_ID'.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 1:49:28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 1:49:28 PM
+
+Error Line No : line 96
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Staff_ID'.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 1:51:10 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 1:51:10 PM
+
+Error Line No : line 96
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Staff_ID'.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 1:53:11 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 1:53:11 PM
+
+Error Line No : line 96
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Staff_ID'.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 1:54:22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 1:54:22 PM
+
+Error Line No : line 96
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Staff_ID'.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 1:58:18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 1:58:18 PM
+
+Error Line No : line 55
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Staff_ID'.
+
+ Error Page Url: http://localhost:1232/Expense.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 1:59:11 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 1:59:11 PM
+
+Error Line No : line 56
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Staff_ID'.
+
+ Error Page Url: http://localhost:1232/Expense.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 2:00:41 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 2:00:41 PM
+
+Error Line No : line 56
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Staff_ID'.
+
+ Error Page Url: http://localhost:1232/Expense.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 2:37:41 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 2:37:41 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 2:37:42 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 2:37:42 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 2:37:45 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 2:37:45 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 2:37:45 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 2:37:45 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 2:37:45 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 2:37:45 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 2:38:02 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 2:38:02 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 2:38:02 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 2:38:02 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 2:38:02 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 2:38:02 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 2:38:03 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 2:38:03 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 2:38:03 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 2:38:03 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 2:38:35 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 2:38:35 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 2:39:11 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 2:39:11 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 2:39:40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 2:39:40 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 2:40:41 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 2:40:41 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 2:40:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 2:40:57 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 2:41:01 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 2:41:01 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 3:53:01 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 3:53:01 PM
+
+Error Line No : ine 199
+
+Error Message: InvalidCastException
+
+Exception Type: System.InvalidCastException
+
+Error Location : Object cannot be cast from DBNull to other types.
+
+ Error Page Url: http://localhost:1232/EnquiryFollowup.aspx?Data=30
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 3:53:59 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 3:53:59 PM
+
+Error Line No : ine 199
+
+Error Message: InvalidCastException
+
+Exception Type: System.InvalidCastException
+
+Error Location : Object cannot be cast from DBNull to other types.
+
+ Error Page Url: http://localhost:1232/EnquiryFollowup.aspx?Data=30
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 3:59:51 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 3:59:51 PM
+
+Error Line No : ine 489
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'CallRespond' does not belong to table .
+
+ Error Page Url: http://localhost:1232/EnquiryFollowup.aspx?Data=2
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 3:59:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 3:59:57 PM
+
+Error Line No : ine 489
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'CallRespond' does not belong to table .
+
+ Error Page Url: http://localhost:1232/EnquiryFollowup.aspx?Data=2
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 4:02:29 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 4:02:29 PM
+
+Error Line No : ine 489
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'CallRespond' does not belong to table .
+
+ Error Page Url: http://localhost:1232/EnquiryFollowup.aspx?Enq_ID=5
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 4:02:56 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 4:02:56 PM
+
+Error Line No : ine 489
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'CallRespond' does not belong to table .
+
+ Error Page Url: http://localhost:1232/EnquiryFollowup.aspx?Enq_ID=5
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 4:06:56 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 4:06:56 PM
+
+Error Line No : ine 489
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlCallPesponse' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/EnquiryFollowup.aspx?Data=5
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-30 4:07:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-30 4:07:31 PM
+
+Error Line No : ine 489
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlCallPesponse' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/EnquiryFollowup.aspx?Data=5
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

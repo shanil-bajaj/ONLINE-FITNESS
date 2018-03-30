@@ -1,0 +1,408 @@
+-----------Exception Details on  2017-12-15 10:52:42 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-15 10:52:42 AM
+
+Error Line No : line 97
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+ Error Page Url: http://localhost:1232/ReportPayment.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-15 10:52:42 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-15 10:52:42 AM
+
+Error Line No : line 39
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+ Error Page Url: http://localhost:1232/ReportPayment.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-15 12:35:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-15 12:35:08 PM
+
+Error Line No : ine 144
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Cannot find table 6.
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-15 4:04:02 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-15 4:04:02 PM
+
+Error Line No : ine 144
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Cannot find table 6.
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-15 4:05:40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-15 4:05:40 PM
+
+Error Line No : ine 137
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-15 4:55:28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-15 4:55:28 PM
+
+Error Line No : ine 154
+
+Error Message: EvaluateException
+
+Exception Type: System.Data.EvaluateException
+
+Error Location : Cannot find column [Discount].
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-15 4:57:14 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-15 4:57:14 PM
+
+Error Line No : ine 154
+
+Error Message: EvaluateException
+
+Exception Type: System.Data.EvaluateException
+
+Error Location : Cannot find column [Discount].
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-15 4:57:45 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-15 4:57:45 PM
+
+Error Line No : ine 154
+
+Error Message: EvaluateException
+
+Exception Type: System.Data.EvaluateException
+
+Error Location : Cannot find column [Discount].
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-15 4:58:04 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-15 4:58:04 PM
+
+Error Line No : ine 154
+
+Error Message: EvaluateException
+
+Exception Type: System.Data.EvaluateException
+
+Error Location : Cannot find column [Discount].
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-15 4:58:33 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-15 4:58:33 PM
+
+Error Line No : ine 154
+
+Error Message: EvaluateException
+
+Exception Type: System.Data.EvaluateException
+
+Error Location : Cannot find column [Discount].
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-15 4:58:54 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-15 4:58:54 PM
+
+Error Line No : ine 154
+
+Error Message: EvaluateException
+
+Exception Type: System.Data.EvaluateException
+
+Error Location : Cannot find column [Discount].
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-15 4:59:01 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-15 4:59:01 PM
+
+Error Line No : ine 154
+
+Error Message: EvaluateException
+
+Exception Type: System.Data.EvaluateException
+
+Error Location : Cannot find column [Discount].
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-15 4:59:27 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-15 4:59:27 PM
+
+Error Line No : ine 154
+
+Error Message: EvaluateException
+
+Exception Type: System.Data.EvaluateException
+
+Error Location : Cannot find column [Discount].
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-15 4:59:52 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-15 4:59:52 PM
+
+Error Line No : ine 154
+
+Error Message: EvaluateException
+
+Exception Type: System.Data.EvaluateException
+
+Error Location : Cannot find column [Discount].
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-15 5:00:15 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-15 5:00:15 PM
+
+Error Line No : ine 154
+
+Error Message: EvaluateException
+
+Exception Type: System.Data.EvaluateException
+
+Error Location : Cannot find column [Discount].
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-15 6:23:20 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-15 6:23:20 PM
+
+Error Line No : ine 145
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Cannot find table 6.
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-15 6:25:48 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-15 6:25:48 PM
+
+Error Line No : ine 145
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Cannot find table 6.
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

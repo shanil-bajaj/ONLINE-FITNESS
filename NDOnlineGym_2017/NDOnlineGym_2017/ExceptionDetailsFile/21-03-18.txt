@@ -1,0 +1,72 @@
+-----------Exception Details on  21-03-2018 17:47:00-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2018 17:47:00
+
+Error Line No : ine 414
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/Measurement.aspx?MsrmntID=242
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2018 18:40:27-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2018 18:40:27
+
+Error Line No : ine 584
+
+Error Message: SqlTypeException
+
+Exception Type: System.Data.SqlTypes.SqlTypeException
+
+Error Location : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+ Error Page Url: http://localhost:1233/MeasurementDetails.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  21-03-2018 18:41:15-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 21-03-2018 18:41:15
+
+Error Line No : ine 584
+
+Error Message: SqlTypeException
+
+Exception Type: System.Data.SqlTypes.SqlTypeException
+
+Error Location : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+ Error Page Url: http://localhost:1233/MeasurementDetails.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

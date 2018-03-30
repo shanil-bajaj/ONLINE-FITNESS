@@ -1,0 +1,337 @@
+-----------Exception Details on  2017-12-02 10:40:37 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-02 10:40:37 AM
+
+Error Line No : ine 132
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @RegDate is not a parameter for procedure SP_UserRegistration.
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-02 10:40:40 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-02 10:40:40 AM
+
+Error Line No : ine 132
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @RegDate is not a parameter for procedure SP_UserRegistration.
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-02 10:40:41 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-02 10:40:41 AM
+
+Error Line No : ine 132
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @RegDate is not a parameter for procedure SP_UserRegistration.
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-02 10:40:42 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-02 10:40:42 AM
+
+Error Line No : ine 132
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @RegDate is not a parameter for procedure SP_UserRegistration.
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-02 10:46:39 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-02 10:46:39 AM
+
+Error Line No : ine 132
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @RegDate is not a parameter for procedure SP_UserRegistration.
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-02 11:22:42 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-02 11:22:42 AM
+
+Error Line No : ine 563
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @ToDate is not a parameter for procedure SP_UserRegistration.
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-02 11:22:55 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-02 11:22:55 AM
+
+Error Line No : ine 563
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @ToDate is not a parameter for procedure SP_UserRegistration.
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-02 11:25:05 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-02 11:25:05 AM
+
+Error Line No : ine 563
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @status is not a parameter for procedure SP_SearchUser.
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-02 11:28:38 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-02 11:28:38 AM
+
+Error Line No : ine 591
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @status is not a parameter for procedure SP_SearchUser.
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-02 12:02:53 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-02 12:02:53 PM
+
+Error Line No : ine 593
+
+Error Message: SqlTypeException
+
+Exception Type: System.Data.SqlTypes.SqlTypeException
+
+Error Location : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-02 12:05:28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-02 12:05:28 PM
+
+Error Line No : ine 593
+
+Error Message: SqlTypeException
+
+Exception Type: System.Data.SqlTypes.SqlTypeException
+
+Error Location : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-02 12:15:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-02 12:15:55 PM
+
+Error Line No : ine 593
+
+Error Message: SqlTypeException
+
+Exception Type: System.Data.SqlTypes.SqlTypeException
+
+Error Location : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-02 12:24:54 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-02 12:24:54 PM
+
+Error Line No : ine 593
+
+Error Message: SqlTypeException
+
+Exception Type: System.Data.SqlTypes.SqlTypeException
+
+Error Location : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-02 12:37:53 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-02 12:37:53 PM
+
+Error Line No : ine 136
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlStaffName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

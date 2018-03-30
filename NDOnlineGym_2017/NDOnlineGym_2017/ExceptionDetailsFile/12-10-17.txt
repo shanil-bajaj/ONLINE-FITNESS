@@ -1,0 +1,768 @@
+-----------Exception Details on  2017-10-12 10:11:21 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 10:11:21 AM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 10:11:23 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 10:11:23 AM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 10:11:26 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 10:11:26 AM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 10:11:43 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 10:11:43 AM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 10:11:43 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 10:11:43 AM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 10:11:43 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 10:11:43 AM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 10:11:48 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 10:11:48 AM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 10:11:49 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 10:11:49 AM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 10:11:49 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 10:11:49 AM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 10:11:50 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 10:11:50 AM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 10:11:51 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 10:11:51 AM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 10:11:51 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 10:11:51 AM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 10:11:52 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 10:11:52 AM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 10:12:13 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 10:12:13 AM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 10:12:20 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 10:12:20 AM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 10:12:21 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 10:12:21 AM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 10:12:21 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 10:12:21 AM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 10:12:22 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 10:12:22 AM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 10:12:22 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 10:12:22 AM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 10:12:23 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 10:12:23 AM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 10:12:24 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 10:12:24 AM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 10:12:25 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 10:12:25 AM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 10:12:26 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 10:12:26 AM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 10:13:04 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 10:13:04 AM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 11:32:55 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 11:32:55 AM
+
+Error Line No : line 89
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Timeout expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+ Error Page Url: http://localhost:1225/Expense.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 4:16:50 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 4:16:50 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=432; handshake=9594; [Login] initialization=0; authentication=0; [Post-Login] complete=4000; 
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 4:16:50 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 4:16:50 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=432; handshake=9594; [Login] initialization=0; authentication=0; [Post-Login] complete=4000; 
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 6:15:40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 6:15:40 PM
+
+Error Line No : line 75
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 6:15:40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 6:15:40 PM
+
+Error Line No : line 75
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 6:15:40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 6:15:40 PM
+
+Error Line No : line 75
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 6:15:40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 6:15:40 PM
+
+Error Line No : line 75
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-12 6:15:40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-12 6:15:40 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=110766; handshake=12; 
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

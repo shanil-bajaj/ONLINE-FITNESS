@@ -1,0 +1,456 @@
+-----------Exception Details on  2017-12-13 9:46:14 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-13 9:46:14 AM
+
+Error Line No : ine 617
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?MembershipEnd_Member_AutoID=3+&FNMemEndFollDetail=FNMemEndFollDetail
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-13 9:47:03 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-13 9:47:03 AM
+
+Error Line No : ine 621
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?BalancePayment_Member_AutoID=3+&FNBalPayFollDetail=FNBalPayFollDetail
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-13 10:15:39 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-13 10:15:39 AM
+
+Error Line No : ine 616
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?MembershipEnd_Member_AutoID=19+&FNMemEndFollDetail=FNMemEndFollDetail
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-13 11:17:47 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-13 11:17:47 AM
+
+Error Line No : ine 616
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?MembershipEnd_Member_AutoID=2+&FNMemEndFollDetail=FNMemEndFollDetail
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-13 11:20:33 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-13 11:20:33 AM
+
+Error Line No : ine 616
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?MembershipEnd_Member_AutoID=2+&FNMemEndFollDetail=FNMemEndFollDetail
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-13 11:20:40 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-13 11:20:40 AM
+
+Error Line No : ine 616
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?MembershipEnd_Member_AutoID=2+&FNMemEndFollDetail=FNMemEndFollDetail
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-13 11:20:50 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-13 11:20:50 AM
+
+Error Line No : ine 616
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?MembershipEnd_Member_AutoID=2+&FNMemEndFollDetail=FNMemEndFollDetail
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-13 11:30:49 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-13 11:30:49 AM
+
+Error Line No : ine 928
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?MembershipEnd_Member_AutoID=2+&FNMemEndFollDetail=FNMemEndFollDetail
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-13 11:30:49 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-13 11:30:49 AM
+
+Error Line No : ine 928
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?MembershipEnd_Member_AutoID=2+&FNMemEndFollDetail=FNMemEndFollDetail
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-13 4:52:38 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-13 4:52:38 PM
+
+Error Line No : ine 113
+
+Error Message: EvaluateException
+
+Exception Type: System.Data.EvaluateException
+
+Error Location : Cannot find column [FinalTotal].
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-13 4:52:46 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-13 4:52:46 PM
+
+Error Line No : ine 113
+
+Error Message: EvaluateException
+
+Exception Type: System.Data.EvaluateException
+
+Error Location : Cannot find column [FinalTotal].
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-13 4:53:02 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-13 4:53:02 PM
+
+Error Line No : ine 113
+
+Error Message: EvaluateException
+
+Exception Type: System.Data.EvaluateException
+
+Error Location : Cannot find column [FinalTotal].
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-13 5:08:01 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-13 5:08:01 PM
+
+Error Line No : ine 113
+
+Error Message: EvaluateException
+
+Exception Type: System.Data.EvaluateException
+
+Error Location : Cannot find column [FinalTotal].
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-13 5:13:59 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-13 5:13:59 PM
+
+Error Line No : ine 188
+
+Error Message: EvaluateException
+
+Exception Type: System.Data.EvaluateException
+
+Error Location : Cannot find column [FinalTotal].
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-13 5:13:59 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-13 5:13:59 PM
+
+Error Line No : ine 188
+
+Error Message: EvaluateException
+
+Exception Type: System.Data.EvaluateException
+
+Error Location : Cannot find column [FinalTotal].
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-13 5:13:59 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-13 5:13:59 PM
+
+Error Line No : ine 113
+
+Error Message: EvaluateException
+
+Exception Type: System.Data.EvaluateException
+
+Error Location : Cannot find column [FinalTotal].
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-13 5:15:40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-13 5:15:40 PM
+
+Error Line No : ine 188
+
+Error Message: EvaluateException
+
+Exception Type: System.Data.EvaluateException
+
+Error Location : Cannot find column [FinalTotal].
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-13 5:16:32 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-13 5:16:32 PM
+
+Error Line No : ine 113
+
+Error Message: EvaluateException
+
+Exception Type: System.Data.EvaluateException
+
+Error Location : Cannot find column [FinalTotal].
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-13 5:51:02 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-13 5:51:02 PM
+
+Error Line No : ine 113
+
+Error Message: EvaluateException
+
+Exception Type: System.Data.EvaluateException
+
+Error Location : Cannot find column [FinalTotal].
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

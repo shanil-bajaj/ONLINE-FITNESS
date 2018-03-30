@@ -1,0 +1,984 @@
+-----------Exception Details on  20-03-2018 11:08:50-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 11:08:50
+
+Error Line No : ine 290
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Measurement_AutoId'.
+
+ Error Page Url: http://localhost:1233/MeasurementDetails.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 11:08:56-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 11:08:56
+
+Error Line No : ine 333
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/MeasurementDetails.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 11:09:16-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 11:09:16
+
+Error Line No : ine 333
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/MeasurementDetails.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 11:09:58-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 11:09:58
+
+Error Line No : ine 328
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: http://localhost:1233/Measurement.aspx?MsrmntID=242
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 11:10:00-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 11:10:00
+
+Error Line No : ine 328
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: http://localhost:1233/Measurement.aspx?MsrmntID=242
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 11:10:03-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 11:10:03
+
+Error Line No : ine 328
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: http://localhost:1233/Measurement.aspx?MsrmntID=242
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 12:17:13-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 12:17:13
+
+Error Line No : ine 523
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:1233/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 12:17:15-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 12:17:15
+
+Error Line No : ine 523
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:1233/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 12:17:51-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 12:17:51
+
+Error Line No : ine 523
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:1233/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 12:20:54-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 12:20:54
+
+Error Line No : ine 583
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 12:21:05-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 12:21:05
+
+Error Line No : ine 583
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 12:22:14-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 12:22:14
+
+Error Line No : ine 583
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 12:22:18-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 12:22:18
+
+Error Line No : ine 583
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 12:22:19-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 12:22:19
+
+Error Line No : ine 583
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 12:25:31-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 12:25:31
+
+Error Line No : ine 583
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 12:37:31-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 12:37:31
+
+Error Line No : ine 538
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'Member_ID1' was not found on the selected data source.
+
+ Error Page Url: http://localhost:1233/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 12:38:04-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 12:38:04
+
+Error Line No : ine 538
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'Member_ID1' was not found on the selected data source.
+
+ Error Page Url: http://localhost:1233/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 12:38:26-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 12:38:26
+
+Error Line No : ine 583
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 13:03:31-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 13:03:31
+
+Error Line No : ine 583
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 13:06:05-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 13:06:05
+
+Error Line No : ine 538
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'Member_ID1' was not found on the selected data source.
+
+ Error Page Url: http://localhost:1233/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 13:07:30-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 13:07:30
+
+Error Line No : ine 583
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 13:20:55-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 13:20:55
+
+Error Line No : ine 583
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 13:22:01-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 13:22:01
+
+Error Line No : ne 7427
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'ReceiptID'.
+
+ Error Page Url: http://localhost:1233/demoCourse.aspx?MenuCourseDetails=MenuCourseDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 13:22:09-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 13:22:09
+
+Error Line No : ne 7476
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/demoCourse.aspx?MenuCourseDetails=MenuCourseDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 13:22:10-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 13:22:10
+
+Error Line No : e 10007
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/demoCourse.aspx?MenuCourseDetails=MenuCourseDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 14:19:24-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 14:19:24
+
+Error Line No : ine 588
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 14:19:53-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 14:19:53
+
+Error Line No : ine 588
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 14:22:50-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 14:22:50
+
+Error Line No : ine 587
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 15:15:09-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 15:15:09
+
+Error Line No : ine 290
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Measurement_AutoId'.
+
+ Error Page Url: http://localhost:1233/MeasurementDetails.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 15:50:31-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 15:50:31
+
+Error Line No : ine 328
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: http://localhost:1233/Measurement.aspx?MsrmntID=243
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 15:50:33-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 15:50:33
+
+Error Line No : ine 328
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: http://localhost:1233/Measurement.aspx?MsrmntID=243
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 15:51:34-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 15:51:34
+
+Error Line No : ine 328
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: http://localhost:1233/Measurement.aspx?MsrmntID=243
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 16:00:01-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 16:00:01
+
+Error Line No : ine 414
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/Measurement.aspx?MsrmntID=243
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 16:00:17-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 16:00:17
+
+Error Line No : ine 414
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/Measurement.aspx?MsrmntID=243
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 16:00:34-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 16:00:34
+
+Error Line No : ine 414
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/Measurement.aspx?MsrmntID=243
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 16:02:39-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 16:02:39
+
+Error Line No : ine 414
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/Measurement.aspx?MsrmntID=243
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 16:26:24-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 16:26:24
+
+Error Line No : ine 414
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/Measurement.aspx?MsrmntID=243
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 16:26:28-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 16:26:28
+
+Error Line No : ine 414
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/Measurement.aspx?MsrmntID=243
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 16:27:41-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 16:27:41
+
+Error Line No : ine 414
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/Measurement.aspx?MsrmntID=243
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 16:27:50-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 16:27:50
+
+Error Line No : ine 414
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/Measurement.aspx?MsrmntID=243
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  20-03-2018 16:28:06-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 20-03-2018 16:28:06
+
+Error Line No : ine 414
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/Measurement.aspx?MsrmntID=243
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

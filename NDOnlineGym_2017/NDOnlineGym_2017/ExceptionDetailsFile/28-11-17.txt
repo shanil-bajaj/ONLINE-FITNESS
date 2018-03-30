@@ -1,0 +1,609 @@
+-----------Exception Details on  2017-11-28 11:01:52 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 11:01:52 AM
+
+Error Line No : ine 696
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?BalancePayment_Member_AutoID=76+&FNBalPayFollDetail=FNBalPayFollDetail
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-28 11:19:25 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 11:19:25 AM
+
+Error Line No : ne 1003
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'CallResponse' does not belong to table .
+
+ Error Page Url: http://localhost:1232/Followup.aspx?BalancePayment_Member_AutoID=76+&FNBalPayFollDetail=FNBalPayFollDetail
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-28 11:20:34 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 11:20:34 AM
+
+Error Line No : ne 1003
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'CallResponse' does not belong to table .
+
+ Error Page Url: http://localhost:1232/Followup.aspx?BalancePayment_Member_AutoID=76+&FNBalPayFollDetail=FNBalPayFollDetail
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-28 11:22:28 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 11:22:28 AM
+
+Error Line No : ne 1003
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'CallResponse' does not belong to table .
+
+ Error Page Url: http://localhost:1232/Followup.aspx?BalancePayment_Member_AutoID=76+&FNBalPayFollDetail=FNBalPayFollDetail
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-28 11:27:22 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 11:27:22 AM
+
+Error Line No : ne 1003
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'CallResponse' does not belong to table .
+
+ Error Page Url: http://localhost:1232/Followup.aspx?BalancePayment_Member_AutoID=76+&FNBalPayFollDetail=FNBalPayFollDetail
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-28 11:29:38 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 11:29:38 AM
+
+Error Line No : ne 1005
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?BalancePayment_Member_AutoID=76+&FNBalPayFollDetail=FNBalPayFollDetail
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-28 11:38:14 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 11:38:14 AM
+
+Error Line No : ne 1005
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?BalancePayment_Member_AutoID=76+&FNBalPayFollDetail=FNBalPayFollDetail
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-28 11:39:34 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 11:39:34 AM
+
+Error Line No : ne 1005
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?BalancePayment_Member_AutoID=76+&FNBalPayFollDetail=FNBalPayFollDetail
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-28 11:07:44 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 11:07:44 AM
+
+Error Line No : ine 139
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlStaffName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-28 11:08:58 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 11:08:58 AM
+
+Error Line No : ine 139
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlStaffName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-28 11:12:00 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 11:12:00 AM
+
+Error Line No : ine 139
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlStaffName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-28 4:35:05 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 4:35:05 PM
+
+Error Line No : line 85
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-28 4:35:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 4:35:31 PM
+
+Error Line No : line 85
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-28 4:36:12 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 4:36:12 PM
+
+Error Line No : line 85
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-28 5:07:29 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 5:07:29 PM
+
+Error Line No : ine 562
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx?Enq_AutoID=27+&FNameSearchPage=SearchPage
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-28 5:08:56 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 5:08:56 PM
+
+Error Line No : ine 562
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx?Enq_AutoID=27+&FNameSearchPage=SearchPage
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-28 5:09:41 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 5:09:41 PM
+
+Error Line No : ine 607
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__Followup__Member__37FA4C37". The conflict occurred in database "NDOnlineGym_2017", table "dbo.MemberDetails", column 'Member_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?Member_ID=75+&FNameSearchPage=SearchPage
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-28 5:09:44 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 5:09:44 PM
+
+Error Line No : ine 607
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__Followup__Member__37FA4C37". The conflict occurred in database "NDOnlineGym_2017", table "dbo.MemberDetails", column 'Member_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?Member_ID=75+&FNameSearchPage=SearchPage
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-28 5:09:44 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 5:09:44 PM
+
+Error Line No : ine 607
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__Followup__Member__37FA4C37". The conflict occurred in database "NDOnlineGym_2017", table "dbo.MemberDetails", column 'Member_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?Member_ID=75+&FNameSearchPage=SearchPage
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-28 5:09:44 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 5:09:44 PM
+
+Error Line No : ine 607
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__Followup__Member__37FA4C37". The conflict occurred in database "NDOnlineGym_2017", table "dbo.MemberDetails", column 'Member_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?Member_ID=75+&FNameSearchPage=SearchPage
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-28 5:09:45 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 5:09:45 PM
+
+Error Line No : ine 607
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__Followup__Member__37FA4C37". The conflict occurred in database "NDOnlineGym_2017", table "dbo.MemberDetails", column 'Member_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?Member_ID=75+&FNameSearchPage=SearchPage
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-28 5:38:59 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 5:38:59 PM
+
+Error Line No : ine 607
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__Followup__Member__37FA4C37". The conflict occurred in database "NDOnlineGym_2017", table "dbo.MemberDetails", column 'Member_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?Member_ID=73+&FNameSearchPage=SearchPage
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-28 6:08:21 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 6:08:21 PM
+
+Error Line No : ine 164
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: http://localhost:1232/MembershipFreezing.aspx?Member_ID=75 &FNameSearchPage=SearchPage
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-28 6:08:47 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 6:08:47 PM
+
+Error Line No : ine 164
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: http://localhost:1232/MembershipFreezing.aspx?Member_ID=75 &FNameSearchPage=SearchPage
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-28 6:10:27 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-28 6:10:27 PM
+
+Error Line No : line 46
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+ Error Page Url: http://localhost:1232/MembershipFreezing.aspx?Member_ID=75 &FNameSearchPage=SearchPage
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

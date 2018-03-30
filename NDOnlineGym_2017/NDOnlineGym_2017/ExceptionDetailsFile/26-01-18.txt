@@ -1,0 +1,147 @@
+-----------Exception Details on  2018-01-26 1:48:29 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2018-01-26 1:48:29 PM
+
+Error Line No : ine 429
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK_EnquiryFollowupDetails_EnquiryDetails". The conflict occurred in database "NDOnlineGym_20173", table "dbo.EnquiryDetails", column 'Enq_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1233/EnquiryFollowup.aspx?Data=1
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2018-01-26 1:49:20 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2018-01-26 1:49:20 PM
+
+Error Line No : ine 429
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK_EnquiryFollowupDetails_EnquiryDetails". The conflict occurred in database "NDOnlineGym_20173", table "dbo.EnquiryDetails", column 'Enq_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1233/EnquiryFollowup.aspx?Data=1
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2018-01-26 1:54:41 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2018-01-26 1:54:41 PM
+
+Error Line No : ine 429
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK_EnquiryFollowupDetails_EnquiryDetails". The conflict occurred in database "NDOnlineGym_20173", table "dbo.EnquiryDetails", column 'Enq_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1233/EnquiryFollowup.aspx?Data=2
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2018-01-26 3:16:19 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2018-01-26 3:16:19 PM
+
+Error Line No : ine 429
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.)
+
+ Error Page Url: http://localhost:1233/EnquiryFollowup.aspx?Data=3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2018-01-26 3:30:39 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2018-01-26 3:30:39 PM
+
+Error Line No : ine 632
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/Followup.aspx?BalancePayment_Member_AutoID=192+&FNBalPayFollDetail=FNBalPayFollDetail
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2018-01-26 6:07:59 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2018-01-26 6:07:59 PM
+
+Error Line No : ine 641
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/Followup.aspx?Other_Member_AutoID=1114+&FNameMemProfile=FNameMemProfile
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

@@ -1,0 +1,216 @@
+-----------Exception Details on  2017-11-14 12:37:22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-14 12:37:22 PM
+
+Error Line No : ne 1115
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+ Error Page Url: http://localhost:1232/demoCourse.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-14 12:37:25 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-14 12:37:25 PM
+
+Error Line No : ne 1115
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+ Error Page Url: http://localhost:1232/demoCourse.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-14 12:37:26 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-14 12:37:26 PM
+
+Error Line No : ne 1115
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+ Error Page Url: http://localhost:1232/demoCourse.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-14 12:37:40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-14 12:37:40 PM
+
+Error Line No : ne 1616
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:1232/demoCourse.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-14 12:42:22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-14 12:42:22 PM
+
+Error Line No : ne 1616
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:1232/demoCourse.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-14 12:43:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-14 12:43:55 PM
+
+Error Line No : ne 1616
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:1232/demoCourse.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-14 12:46:06 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-14 12:46:06 PM
+
+Error Line No : ne 1616
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:1232/demoCourse.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-14 12:48:47 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-14 12:48:47 PM
+
+Error Line No : ne 1616
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:1232/demoCourse.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-14 5:45:11 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-14 5:45:11 PM
+
+Error Line No : line 82
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Invalid operation. The connection is closed.
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

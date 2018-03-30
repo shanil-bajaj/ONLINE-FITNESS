@@ -1,0 +1,237 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PTMaster.master.cs" Inherits="NDOnlineGym_2017.PTMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+ <link rel="icon" type="image/png" href="Logo/NDLogo.png" />
+<head id="Head1" runat="server">
+    <title></title>
+   <%-- <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />  --%>
+    <script src="JS/OfflineJavaScript.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <link href="CSS/MainMaster.css" rel="stylesheet" />
+
+    
+    <script src="JS/MainMaster.js"></script>
+    <script type="text/javascript">
+        function date_time(id) {
+            date = new Date;
+            year = date.getFullYear();
+            month = date.getMonth();
+            months = new Array('Jan', 'Feb', 'March', 'April', 'May', 'June', 'July', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec');
+            d = date.getDate();
+            day = date.getDay();
+            days = new Array('Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat');
+            //h = date.getHours();
+            //if (h < 10) {
+            //    h = "0" + h;
+            //}
+            //m = date.getMinutes();
+            //if (m < 10) {
+            //    m = "0" + m;
+            //}
+            //s = date.getSeconds();
+            //if (s < 10) {
+            //    s = "0" + s;
+            //}
+
+            var hours = date.getHours();
+            var minutes = date.getMinutes();
+            var sec = date.getSeconds();
+            var ampm = hours >= 12 ? 'pm' : 'am';
+            hours = hours % 12;
+            hours = hours ? hours : 12; // the hour '0' should be '12'
+            minutes = minutes < 10 ? '0' + minutes : minutes;
+            // var strTime = hours + ':' + minutes + ' ' + ampm;
+
+            result = '' + days[day] + ',' + ' ' + d + ' ' + months[month] + ' ' + year + ' ' + hours + ':' + minutes + ':' + sec + ' ' + ampm;
+            document.getElementById(id).innerHTML = result;
+            setTimeout('date_time("' + id + '");', '1000');
+            return true;
+        }
+  </script>
+ <style>
+        #menu-items1 , #menu-items2 ,#menu-items3,#menu-items4,#menu-items5,#menu-items6{ display:none; }
+        .menu { padding:7px 15px;display:block;color:black;text-decoration:none;font:12px arial, verdana, sans-serif;
+                          border-left:2px solid rgb(22, 164, 155);border-top:2px solid rgb(22, 164, 155);border-right:2px solid rgb(22, 164, 155);
+                          margin-right:2px;margin-left:2px; 
+                          /*background-color:rgb(22, 164, 155);*/
+        }
+        .divMenubar {margin-top:20px;width:100%;border-bottom:3px solid rgb(22, 164, 155);height:33px;  }
+        .menu1 { padding:7px 15px;display:block;color:white;text-decoration:none;font:12px arial, verdana, sans-serif;
+                 border-left:2px solid rgb(22, 164, 155);border-top:2px solid rgb(22, 164, 155);border-right:2px solid rgb(22, 164, 155);
+                 margin-right:2px;margin-left:2px;background-color:rgb(22, 164, 155);}
+         .lnkbtnMenu:hover { background-color: whitesmoke;cursor: pointer; }
+         .lnkbtnMenu { background: none;padding: 5px 10px; font-size: 11px;color: black;float: left; width: 100%; text-decoration: none; }
+    </style>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    
+         <table id="Table1" runat="server" width="100%" height="100%" cellspacing="0" cellpadding="0" border="0" >
+         <tr>
+             <td class="bgleft"></td>
+             <td style="width:74%;vertical-align:top;background-color:white;">
+                <div style="width:100%;">
+                    <div id="divUpperSection">
+                         <div class="header" >
+                          
+                            <div style="float:right;padding:5px 10px;margin-top:-15px;">
+
+                                <h4><asp:Label ID="date_time" runat="server" Text="" CssClass="lblDate" ></asp:Label></h4>
+                                <script type="text/javascript">window.onload = date_time('date_time');</script>
+
+                                <asp:LinkButton ID="lnkBtnLogout" runat="server" style="font-size:12px;float:right;color:white;padding-right:5px;
+                                border-left:1px solid white;padding-left:7px;">Logout</asp:LinkButton>
+
+                                <asp:LinkButton ID="lnkbtnHome" runat="server" style="font-size:12px;float:right;color:white;padding-right:7px;
+                                border-left:1px solid white;padding-left:7px;" >Home</asp:LinkButton>
+
+                                <asp:LinkButton ID="LinkButton2" runat="server" style="font-size:12px;float:right;color:white;padding-right:7px;
+                                border-left:1px solid white;padding-left:7px;">My Account</asp:LinkButton>
+                                <asp:Label ID="lblName" runat="server" style="font-size:12px;float:right;color:white;padding-right:7px;
+                                padding-left:7px;"></asp:Label>
+                                <asp:Label ID="Label2" runat="server" style="font-size:12px;float:right;color:white;
+                                padding-left:7px;">Welcome</asp:Label>
+                                  <div style="float:left;margin-left:-45px;margin-top:-15px;"><h2>
+                                      <asp:Label ID="lblCompanyName" runat="server" Text="" Font-Names="sans-serif" Font-Size="12" Font-Bold="True" style="color:white"></asp:Label></h2></div>
+                          </div>
+                                 
+                    </div>
+                         <div style="width:138px;height:87px;border:1px solid silver;margin:0px;padding:3px;margin-left:30px;margin-top:-85px;background-image:url('../Icon/images (2).jpg')">
+                           <div style="width:128px;height:77px;border:1px solid silver;margin:0px;background-color:white;">
+                                <%--<img runat="server" id="imgCompanyLogo" src="../Icon/download.png" width="128" height="77" style="background-size:cover;" />--%>
+                               <asp:Image ID="imgCompanyLogo" runat="server" ImageUrl="Icons/IdproofLogo.png" style="width:128px;height:77px;border:1px solid silver;"
+                                                class="fileupload-preview thumbnail" />
+                           </div>          
+                    </div>
+                <div class="divSerach" >
+                    <%--<div id="search-bar"> 
+                        <asp:TextBox autocomplete="off" runat="server" CssClass="search-field" ID="searchtext" name="search" placeholder="Search…" type="text" ></asp:TextBox>  
+                        <asp:Button ID="Button1" runat="server" style="display: none;" type="submit" value="" CssClass="btnSearch" /> 
+                    </div>--%>
+
+                      <asp:TextBox ID="txtSearch" runat="server" CssClass="input-search" TextMode="Search"
+                            placeholder="Search"></asp:TextBox>
+                        <span class="aero-search">&#9660;</span>
+                        <asp:Button ID="btnSearch" runat="server" Text="Search" CssClass="btn-search" ></asp:Button>
+
+                      <div class="Search-Category">
+                        <span class="close-search" >&times</span>
+                            <ul>
+                                <li>
+                                    <span style="padding-top:3px;">Search By &nbsp;&nbsp;</span>
+                                    <asp:DropDownList ID="ddlSearch" runat="server" CssClass="input-ddl" >
+                                        <asp:ListItem Value="">Member</asp:ListItem>
+                                        <asp:ListItem Value="en">Enquiry</asp:ListItem>
+                                        <asp:ListItem Value="cl">Contact</asp:ListItem>
+                                        <asp:ListItem Value="ex">City</asp:ListItem>
+                                    </asp:DropDownList>
+                                </li>
+                         
+                                <li>                                    
+                                    <asp:Button ID="btnSearchByCategory" runat="server" Text="Search" CssClass="btn-search"></asp:Button>
+                                </li>
+                            </ul>
+                        </div>
+                </div>
+                   </div>
+        
+               <div class="divMenubar">
+               
+                   <div class="drop">
+
+                        <ul class="drop_menu">
+                            <li><a href="PTHome.aspx" id="m" class="menu">Dashboard</a></li>
+                            <li>
+                                <a href='#' class="menu" id="m2">Masters</a>
+                                <div id="menu-items2" class="menu-items">
+
+                                       <ul>
+                                            <li><strong>Masters</strong></li>
+                                            <li><a href="PTMasterForm.aspx">Master Form</a></li>                                           
+                                            
+                                        </ul>                         
+                                </div>
+                            </li> 
+                            <li>
+                                <a href='#' class="menu" id="m1">PT</a>
+                                <div id="menu-items1" class="menu-items">
+
+                                        <ul>
+                                            <li><strong>PT</strong></li>
+                                            <li id="liCompanyInformation" runat="server"><a href="PTAddTranning.aspx">Add Tranning</a></li>
+                                            <li id="li1" runat="server"><a href="PTBookingDetails.aspx">PT Details</a></li>
+                                        </ul>                                                                                                               
+                                 </div>
+                            </li>
+
+                            
+                             <li>
+                                <a href='#' class="menu" id="m4">Attendance</a>
+                                <div id="menu-items4" class="menu-items">
+
+                                       <ul>
+                                            <li><strong>P.T Attendance</strong></li>
+                                            <li><a href="PTAttendance.aspx">P.T Attendance</a></li>                                           
+                                            <li><a href="PTExistingAttendance.aspx">Existing Attendance</a></li>  
+                                        </ul>                         
+                                </div>
+                            </li>      
+                            <li>
+                                <a href='#' class="menu" id="m3">Reports</a>
+                                <div id="menu-items3" class="menu-items">
+
+                                       <ul>
+                                            <li><strong>Reports</strong></li>
+                                            <li><a href="PTReportPersonalInstructorReport.aspx">Personal Instructor Report</a></li>                                           
+                                            
+                                        </ul>                         
+                                </div>
+                            </li>     
+                                                                   
+                          <%--  <li>
+                                <a href='#' class="menu" id="m5">Balance Payment</a>
+                                <div id="menu-items5" class="menu-items">
+
+                                       <ul>
+                                            <li><strong>Balance Payment</strong></li>
+                                            <li><a href="POSVendorBalancePayment.aspx">Vendor Payment</a></li>                                           
+                                            <li><a href="POSCustomerBalancePayment.aspx">Customer Payment</a></li>     
+                                        </ul>                         
+                                </div>
+                            </li>   --%>
+                        </ul>
+                    </div>
+                        
+               </div>
+
+
+              <div id="divInnerFrom" style="width:100%;background-color:white;padding:5px;">   
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+                </asp:ContentPlaceHolder>
+              </div>
+         
+              <div class="footer" id="divLowerSection" >
+                         <center style="padding-top:55px;padding-left:340px;">
+                             <div style="float:left;">
+                                <img src="../Icon/NDLogoImg.png" height="40" />
+                             </div>
+                             <div style="margin-left:10px;border-left:1px solid white;height:17px;float:left;margin-top:10px;">
+                                 <h4 style="color:white;margin-top:0px;margin-left:10px;"> Navkar Dreamsoft. &nbsp;&nbsp; Contact : 9595548825</h4>
+                             </div>
+                         </center>
+                </div>
+                
+               </div>
+             </td>
+             <td class="bgright"></td>
+         </tr>
+     </table>
+          </form>
+</body>
+</html>

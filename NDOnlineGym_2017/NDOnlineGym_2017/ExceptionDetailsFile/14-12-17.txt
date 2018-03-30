@@ -1,0 +1,120 @@
+-----------Exception Details on  14-Dec-17 11:33:54 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 14-Dec-17 11:33:54 AM
+
+Error Line No : ine 113
+
+Error Message: EvaluateException
+
+Exception Type: System.Data.EvaluateException
+
+Error Location : Cannot find column [FinalTotal].
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  14-Dec-17 11:38:38 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 14-Dec-17 11:38:38 AM
+
+Error Line No : ine 105
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'Sp_Reports' expects parameter '@Action', which was not supplied.
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-14 3:20:52 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-14 3:20:52 PM
+
+Error Line No : ine 141
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Cannot find table 3.
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-14 3:23:28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-14 3:23:28 PM
+
+Error Line No : ine 141
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Cannot find table 3.
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-14 4:29:27 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-14 4:29:27 PM
+
+Error Line No : ine 141
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : Cannot find table 3.
+
+ Error Page Url: http://localhost:1232/ReportAllCollection.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

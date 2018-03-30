@@ -1,0 +1,360 @@
+-----------Exception Details on  2017-10-27 11:20:59 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-27 11:20:59 AM
+
+Error Line No : ine 150
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'Name' does not belong to table .
+
+ Error Page Url: http://localhost:1232/StaffNotificationHome.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-27 11:21:19 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-27 11:21:19 AM
+
+Error Line No : ine 150
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'Name' does not belong to table .
+
+ Error Page Url: http://localhost:1232/StaffNotificationHome.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-27 11:36:09 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-27 11:36:09 AM
+
+Error Line No : ine 152
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'Name' does not belong to table .
+
+ Error Page Url: http://localhost:1232/StaffNotificationHome.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-27 11:37:08 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-27 11:37:08 AM
+
+Error Line No : ine 152
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'Name' does not belong to table .
+
+ Error Page Url: http://localhost:1232/StaffNotificationHome.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-27 12:38:03 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-27 12:38:03 PM
+
+Error Line No : line 84
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:1232/NewUpdateNotificationHome.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-27 12:38:41 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-27 12:38:41 PM
+
+Error Line No : line 84
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:1232/NewUpdateNotificationHome.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-27 7:07:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-27 7:07:31 PM
+
+Error Line No : ine 286
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @CallResponse is not a parameter for procedure SP_EnquiryFollowup.
+
+ Error Page Url: http://localhost:1232/EnquiryFollowup.aspx?Data=4
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-27 7:11:08 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-27 7:11:08 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Connection Timeout Expired.  The timeout period elapsed while attempting to consume the pre-login handshake acknowledgement.  This could be because the pre-login handshake failed or the server was unable to respond back in time.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=25254; handshake=28; 
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-27 7:13:37 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-27 7:13:37 PM
+
+Error Line No : ine 286
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @CallResponse is not a parameter for procedure SP_EnquiryFollowup.
+
+ Error Page Url: http://localhost:1232/EnquiryFollowup.aspx?Data=4
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-27 7:16:18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-27 7:16:18 PM
+
+Error Line No : ine 286
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @CallResponse_AutoID is not a parameter for procedure SP_EnquiryFollowup.
+
+ Error Page Url: http://localhost:1232/EnquiryFollowup.aspx?Data=4
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-27 7:22:46 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-27 7:22:46 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=384; handshake=4327; [Login] initialization=0; authentication=0; [Post-Login] complete=10000; 
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-27 7:22:47 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-27 7:22:47 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=384; handshake=4327; [Login] initialization=0; authentication=0; [Post-Login] complete=10000; 
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-27 7:22:48 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-27 7:22:48 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=384; handshake=4327; [Login] initialization=0; authentication=0; [Post-Login] complete=10000; 
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-27 7:22:49 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-27 7:22:49 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=384; handshake=4327; [Login] initialization=0; authentication=0; [Post-Login] complete=10000; 
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-27 7:22:50 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-27 7:22:50 PM
+
+Error Line No : line 75
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Connection Timeout Expired.  The timeout period elapsed during the post-login phase.  The connection could have timed out while waiting for server to complete the login process and respond; Or it could have timed out while attempting to create multiple active connections.  The duration spent while attempting to connect to this server was - [Pre-Login] initialization=384; handshake=4327; [Login] initialization=0; authentication=0; [Post-Login] complete=10000; 
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

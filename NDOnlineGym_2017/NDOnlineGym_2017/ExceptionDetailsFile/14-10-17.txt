@@ -1,0 +1,24 @@
+-----------Exception Details on  2017-10-14 12:40:27 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-14 12:40:27 PM
+
+Error Line No : line 98
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'SP_Expense' expects parameter '@Executive_ID', which was not supplied.
+
+ Error Page Url: http://localhost:1225/Expense.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

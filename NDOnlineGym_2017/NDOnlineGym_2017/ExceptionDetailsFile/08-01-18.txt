@@ -1,0 +1,48 @@
+-----------Exception Details on  2018-01-08 12:28:37 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2018-01-08 12:28:37 PM
+
+Error Line No : ine 641
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?Other_Member_AutoID=208+&FNameMemProfile=FNameMemProfile
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2018-01-08 12:56:32 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2018-01-08 12:56:32 PM
+
+Error Line No : ine 613
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?BalancePayment_Member_AutoID=208
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

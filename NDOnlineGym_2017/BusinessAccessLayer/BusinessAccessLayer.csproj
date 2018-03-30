@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C18B3494-B041-449F-B444-26541C81D4A0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BusinessAccessLayer</RootNamespace>
+    <AssemblyName>BusinessAccessLayer</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BalActiveDeactive.cs" />
+    <Compile Include="BalAddMember.cs" />
+    <Compile Include="BalAddVendor.cs" />
+    <Compile Include="BalAllFollowup.cs" />
+    <Compile Include="BalAssignWorkoutToMember.cs" />
+    <Compile Include="BalAuthorityChart.cs" />
+    <Compile Include="BalBalancePayment.cs" />
+    <Compile Include="BalBranchInformation.cs" />
+    <Compile Include="BalCallRespondMaster.cs" />
+    <Compile Include="BalChartBLL.cs" />
+    <Compile Include="BalCharts.cs" />
+    <Compile Include="BalCollectionSMS.cs" />
+    <Compile Include="BalCompanyInformation.cs" />
+    <Compile Include="BalCourseReceipt.cs" />
+    <Compile Include="BalCourseReg.cs" />
+    <Compile Include="BalCourtBooking.cs" />
+    <Compile Include="BalDashBoard.cs" />
+    <Compile Include="BalDepartmentMaster.cs" />
+    <Compile Include="BalDesignationMaster.cs" />
+    <Compile Include="BalDietAvoidMaster.cs" />
+    <Compile Include="BalDietDeclarationMaster.cs" />
+    <Compile Include="BalDietPlan.cs" />
+    <Compile Include="BalEmail.cs" />
+    <Compile Include="BalEnquiry.cs" />
+    <Compile Include="BalEnquiryFollowup.cs" />
+    <Compile Include="BalEnquiryForMaster.cs" />
+    <Compile Include="BalEnquiryToEnroll.cs" />
+    <Compile Include="BalEnquiryTypeMaster.cs" />
+    <Compile Include="BalExistingHealthDetails.cs" />
+    <Compile Include="BalExpense.cs" />
+    <Compile Include="BalExpenseGroupMaster.cs" />
+    <Compile Include="BalFollowup.cs" />
+    <Compile Include="BalFollowupTypeMaster.cs" />
+    <Compile Include="BalFreezingMember.cs" />
+    <Compile Include="BalGroupSMS.cs" />
+    <Compile Include="BalHealthDetails.cs" />
+    <Compile Include="BalLoginForm.cs" />
+    <Compile Include="BalMast_Appoint.cs" />
+    <Compile Include="BalMeasurement.cs" />
+    <Compile Include="BalMemberNumericAttendance.cs" />
+    <Compile Include="BalMembershipTransfer.cs" />
+    <Compile Include="BalMemberUpgradeMaster.cs" />
+    <Compile Include="BalMembrshipExtension.cs" />
+    <Compile Include="BalMemeberProfileInfo.cs" />
+    <Compile Include="BalMuscularGroupMaster.cs" />
+    <Compile Include="BalNewUpdateNotificationHome.cs" />
+    <Compile Include="BalOccupationMaster.cs" />
+    <Compile Include="BalPackage.cs" />
+    <Compile Include="BalPaymentDetailsMaster.cs" />
+    <Compile Include="BalProgrammerMaster.cs" />
+    <Compile Include="BalPT.cs" />
+    <Compile Include="BalPTDaysMaster.cs" />
+    <Compile Include="BalPTSearch.cs" />
+    <Compile Include="BalPTTimeMaster.cs" />
+    <Compile Include="BalPTTrainerIncentiveMaster.cs" />
+    <Compile Include="BalReportActiveDeactiveMember.cs" />
+    <Compile Include="BalReportAllMemberList.cs" />
+    <Compile Include="BalReportEnquiryFollowup.cs" />
+    <Compile Include="BalReportMemberBirthday.cs" />
+    <Compile Include="BalReportMemeberWiseInstructor.cs" />
+    <Compile Include="BalReportPackageInformation.cs" />
+    <Compile Include="BalReports.cs" />
+    <Compile Include="BalSearchHome.cs" />
+    <Compile Include="BalSendQuickSMS.cs" />
+    <Compile Include="BalSendSMS.cs" />
+    <Compile Include="BalShiftMaster.cs" />
+    <Compile Include="BalSMSLogin.cs" />
+    <Compile Include="BalSMSTemplate.cs" />
+    <Compile Include="BalSourceOfEnquiryMaster.cs" />
+    <Compile Include="BalStaffNotificationHome.cs" />
+    <Compile Include="BalStaffRegistration.cs" />
+    <Compile Include="BalTakeAppointment.cs" />
+    <Compile Include="BalTaxMaster.cs" />
+    <Compile Include="BalTermination.cs" />
+    <Compile Include="BalUpgrade.cs" />
+    <Compile Include="BalUserResitration.cs" />
+    <Compile Include="BalViewBalancePaymentFollowup.cs" />
+    <Compile Include="BalViewHealthDetails.cs" />
+    <Compile Include="BalWorkoutNameMaster.cs" />
+    <Compile Include="POSBalCustomer.cs" />
+    <Compile Include="POSBalProduct.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccessLayer\DataAccessLayer.csproj">
+      <Project>{db88b722-43db-4e27-a6d2-0e29595b5f18}</Project>
+      <Name>DataAccessLayer</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

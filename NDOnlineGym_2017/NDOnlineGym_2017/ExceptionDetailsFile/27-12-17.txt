@@ -1,0 +1,48 @@
+-----------Exception Details on  2017-12-27 5:37:12 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-27 5:37:12 PM
+
+Error Line No : line 85
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : Invalid operation. The connection is closed.
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-27 6:02:35 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-27 6:02:35 PM
+
+Error Line No : ine 636
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?Other_Member_AutoID=128+&FNameMemProfile=FNameMemProfile
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

@@ -1,0 +1,312 @@
+-----------Exception Details on  2017-11-18 10:33:44 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-18 10:33:44 AM
+
+Error Line No : ine 110
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'Member_ID1' was not found on the selected data source.
+
+ Error Page Url: http://localhost:1232/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-18 10:34:27 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-18 10:34:27 AM
+
+Error Line No : ine 110
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'Member_ID1' was not found on the selected data source.
+
+ Error Page Url: http://localhost:1232/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-18 11:07:17 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-18 11:07:17 AM
+
+Error Line No : ine 193
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: http://localhost:1232/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-18 11:07:23 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-18 11:07:23 AM
+
+Error Line No : ine 193
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: http://localhost:1232/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-18 11:07:27 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-18 11:07:27 AM
+
+Error Line No : ine 193
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: http://localhost:1232/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-18 11:07:32 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-18 11:07:32 AM
+
+Error Line No : ine 193
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : Input string was not in a correct format.
+
+ Error Page Url: http://localhost:1232/ActiveDeactiveMember.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-18 6:18:33 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-18 6:18:33 PM
+
+Error Line No : ine 567
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx?Enq_AutoID=9+&FNameSearchPage=SearchPage
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-18 6:19:48 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-18 6:19:48 PM
+
+Error Line No : ine 567
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx?Enq_AutoID=9+&FNameSearchPage=SearchPage
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-18 6:23:41 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-18 6:23:41 PM
+
+Error Line No : ine 567
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx?Enq_AutoID=9+&FNameSearchPage=SearchPage
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-18 6:25:38 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-18 6:25:38 PM
+
+Error Line No : ine 567
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx?Enq_AutoID=9+&FNameSearchPage=SearchPage
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-18 6:30:48 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-18 6:30:48 PM
+
+Error Line No : ine 567
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx?Enq_AutoID=9+&FNameSearchPage=SearchPage
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-18 6:57:03 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-18 6:57:03 PM
+
+Error Line No : line 85
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A transport-level error has occurred when receiving results from the server. (provider: TCP Provider, error: 0 - The semaphore timeout period has expired.)
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-18 6:57:24 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-18 6:57:24 PM
+
+Error Line No : line 85
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

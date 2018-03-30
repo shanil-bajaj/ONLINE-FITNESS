@@ -1,0 +1,100 @@
+-----------Exception Details on  2017-09-30 12:05:34 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-30 12:05:34 PM
+
+Error Line No : ine 220
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
+ Error Page Url: http://localhost:1225/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-30 12:42:03 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-30 12:42:03 PM
+
+Error Line No : ine 192
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
+ Error Page Url: http://localhost:1225/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-30 12:42:09 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-30 12:42:09 PM
+
+Error Line No : ine 192
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
+ Error Page Url: http://localhost:1225/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-30 12:42:38 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-30 12:42:38 PM
+
+Error Line No : ine 108
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1225/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

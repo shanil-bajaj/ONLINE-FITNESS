@@ -1,0 +1,346 @@
+-----------Exception Details on  2017-10-31 11:44:52 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-31 11:44:52 AM
+
+Error Line No : ine 195
+
+Error Message: InvalidCastException
+
+Exception Type: System.InvalidCastException
+
+Error Location : Object cannot be cast from DBNull to other types.
+
+ Error Page Url: http://localhost:1232/EnquiryFollowup.aspx?Enq_ID=10
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-31 12:02:36 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-31 12:02:36 PM
+
+Error Line No : ine 197
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: http://localhost:1232/EnquiryFollowup.aspx?Enq_ID=10
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-31 4:29:28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-31 4:29:28 PM
+
+Error Line No : ine 338
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK_followupType_EnquiryFollowupDetails". The conflict occurred in database "NDOnlineGym_2017_3", table "dbo.FollowupTypeMaster", column 'FollowupType_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1232/EnquiryFollowup.aspx?Enq_ID=10
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-31 4:30:14 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-31 4:30:14 PM
+
+Error Line No : ine 338
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK_followupType_EnquiryFollowupDetails". The conflict occurred in database "NDOnlineGym_2017_3", table "dbo.FollowupTypeMaster", column 'FollowupType_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1232/EnquiryFollowup.aspx?Enq_ID=10
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-31 4:38:12 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-31 4:38:12 PM
+
+Error Line No : ine 343
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlCallPesponse' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/EnquiryFollowup.aspx?Data=2
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-31 4:42:33 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-31 4:42:33 PM
+
+Error Line No : ine 445
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'FollowupType_AutoID' does not belong to table .
+
+ Error Page Url: http://localhost:1232/EnquiryFollowup.aspx?Data=5
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-31 4:42:37 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-31 4:42:37 PM
+
+Error Line No : ine 356
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlCallPesponse' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/EnquiryFollowup.aspx?Data=5
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-31 5:41:02 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-31 5:41:02 PM
+
+Error Line No : ine 445
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'FollowupType_AutoID' does not belong to table .
+
+ Error Page Url: http://localhost:1232/EnquiryFollowup.aspx?Enq_ID=10
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-31 6:44:48 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-31 6:44:48 PM
+
+Error Line No : ine 408
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__Followup__Member__37FA4C37". The conflict occurred in database "NDOnlineGym_2017_3", table "dbo.MemberDetails", column 'Member_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?BalancePayment_Member_AutoID=35
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-31 6:45:37 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-31 6:45:37 PM
+
+Error Line No : ine 408
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__Followup__Member__37FA4C37". The conflict occurred in database "NDOnlineGym_2017_3", table "dbo.MemberDetails", column 'Member_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?BalancePayment_Member_AutoID=35
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-31 6:48:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-31 6:48:31 PM
+
+Error Line No : ine 408
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__Followup__Member__37FA4C37". The conflict occurred in database "NDOnlineGym_2017_3", table "dbo.MemberDetails", column 'Member_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?BalancePayment_Member_AutoID=35
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-31 6:49:50 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-31 6:49:50 PM
+
+Error Line No : ine 408
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__Followup__Member__37FA4C37". The conflict occurred in database "NDOnlineGym_2017_3", table "dbo.MemberDetails", column 'Member_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?BalancePayment_Member_AutoID=35
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-31 6:54:58 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-31 6:54:58 PM
+
+Error Line No : ine 693
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlFollowupType' has a SelectedIndex which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/Followup.aspx?BalancePayment_Member_AutoID=35
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-31 6:55:56 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-31 6:55:56 PM
+
+Error Line No : ine 693
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlFollowupType' has a SelectedIndex which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/Followup.aspx?BalancePayment_Member_AutoID=35
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

@@ -1,0 +1,168 @@
+-----------Exception Details on  2017-09-19 11:08:29 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-19 11:08:29 AM
+
+Error Line No : line 63
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-19 11:08:52 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-19 11:08:52 AM
+
+Error Line No : line 63
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-19 4:22:19 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-19 4:22:19 PM
+
+Error Line No : line 63
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-19 4:23:11 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-19 4:23:11 PM
+
+Error Line No : line 63
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: SQL Network Interfaces, error: 26 - Error Locating Server/Instance Specified)
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-19 4:29:18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-19 4:29:18 PM
+
+Error Line No : line 72
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'Name' does not belong to table .
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-19 4:31:15 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-19 4:31:15 PM
+
+Error Line No : line 72
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'Name' does not belong to table .
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-19 5:35:58 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-19 5:35:58 PM
+
+Error Line No : line 72
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'Name' does not belong to table .
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

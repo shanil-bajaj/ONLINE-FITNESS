@@ -1,0 +1,120 @@
+-----------Exception Details on  2017-12-26 3:13:46 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-26 3:13:46 PM
+
+Error Line No : ne 1820
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/demoCourse.aspx?Member_ID=112+&FNameMemDetails=MemberDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-26 3:14:06 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-26 3:14:06 PM
+
+Error Line No : ine 640
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?Member_ID=112+&FNameMemDetails=MemberDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-26 6:06:34 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-26 6:06:34 PM
+
+Error Line No : ine 415
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/EnquiryFollowup.aspx?Enq_ID=11+&MenuEnqFollowupDetails=MenuEnqFollowupDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-26 6:12:18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-26 6:12:18 PM
+
+Error Line No : ine 415
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/EnquiryFollowup.aspx?Enq_ID=11+&MenuEnqFollowupDetails=MenuEnqFollowupDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-26 6:15:06 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-26 6:15:06 PM
+
+Error Line No : ine 638
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx?Enq_AutoID=11+&MenuEnqFollowupDetails=MenuEnqFollowupDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

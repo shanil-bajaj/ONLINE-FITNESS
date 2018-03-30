@@ -1,0 +1,72 @@
+-----------Exception Details on  15-03-2018 13:01:27-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15-03-2018 13:01:27
+
+Error Line No : ne 1966
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : DataBinding: 'System.Data.DataRowView' does not contain a property with the name 'Enq_AutoID'.
+
+ Error Page Url: http://localhost:1233/AddEnquiry.aspx?MenuEnquDetails=MenuEnqDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  15-03-2018 13:02:06-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15-03-2018 13:02:06
+
+Error Line No : ne 2015
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/AddEnquiry.aspx?MenuEnquDetails=MenuEnqDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  15-03-2018 13:12:27-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 15-03-2018 13:12:27
+
+Error Line No : ne 1526
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Input array is longer than the number of columns in this table.
+
+ Error Page Url: http://localhost:1233/AddEnquiry.aspx?MenuEnquDetails=MenuEnqDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

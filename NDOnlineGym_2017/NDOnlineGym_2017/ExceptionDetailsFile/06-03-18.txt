@@ -1,0 +1,24 @@
+-----------Exception Details on  06-03-2018 11:20:24-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 06-03-2018 11:20:24
+
+Error Line No : ine 202
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'Member_ID1' does not belong to table .
+
+ Error Page Url: http://localhost:1233/Measurement.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

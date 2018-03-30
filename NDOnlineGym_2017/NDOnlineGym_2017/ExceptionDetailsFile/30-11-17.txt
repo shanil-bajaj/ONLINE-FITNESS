@@ -1,0 +1,96 @@
+-----------Exception Details on  2017-11-30 11:42:16 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-30 11:42:16 AM
+
+Error Line No : ne 1148
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @DateCategory is not a parameter for procedure SP_Enquiry.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx?MenuEnquDetails=MenuEnqDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-30 11:42:16 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-30 11:42:16 AM
+
+Error Line No : ne 1148
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @DateCategory is not a parameter for procedure SP_Enquiry.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx?MenuEnquDetails=MenuEnqDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-30 11:47:31 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-30 11:47:31 AM
+
+Error Line No : ne 1148
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @DateCategory is not a parameter for procedure SP_Enquiry.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-30 11:47:31 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-30 11:47:31 AM
+
+Error Line No : ne 1148
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : @DateCategory is not a parameter for procedure SP_Enquiry.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

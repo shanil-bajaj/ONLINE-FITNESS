@@ -1,0 +1,24 @@
+-----------Exception Details on  2018-01-11 4:54:27 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2018-01-11 4:54:27 PM
+
+Error Line No : ine 613
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?BalancePayment_Member_AutoID=192+&FNBalPayFollDetail=FNBalPayFollDetail
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

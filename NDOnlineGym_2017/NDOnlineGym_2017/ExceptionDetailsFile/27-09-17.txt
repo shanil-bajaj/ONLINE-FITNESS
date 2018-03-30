@@ -1,0 +1,98 @@
+-----------Exception Details on  2017-09-27 3:47:00 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-27 3:47:00 PM
+
+Error Line No : ine 125
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
+ Error Page Url: http://localhost:1225/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-27 4:24:33 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-27 4:24:33 PM
+
+Error Line No : ine 320
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK_EnquiryDetails_CompanyInformation". The conflict occurred in database "NDOnlineGym_2017_2", table "dbo.CompanyInformation", column 'Company_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1225/AddEnquiry.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-27 4:25:50 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-27 4:25:50 PM
+
+Error Line No : ine 220
+
+Error Message: FormatException
+
+Exception Type: System.FormatException
+
+Error Location : String was not recognized as a valid DateTime.
+
+ Error Page Url: http://localhost:1225/AddEnquiry.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-27 4:25:51 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-27 4:25:51 PM
+
+Error Line No : ine 320
+
+Error Message: SqlTypeException
+
+Exception Type: System.Data.SqlTypes.SqlTypeException
+
+Error Location : SqlDateTime overflow. Must be between 1/1/1753 12:00:00 AM and 12/31/9999 11:59:59 PM.
+
+ Error Page Url: http://localhost:1225/AddEnquiry.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

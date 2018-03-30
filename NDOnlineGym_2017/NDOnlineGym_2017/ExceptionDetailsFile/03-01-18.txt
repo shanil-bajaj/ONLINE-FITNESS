@@ -1,0 +1,96 @@
+-----------Exception Details on  2018-01-03 4:11:32 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2018-01-03 4:11:32 PM
+
+Error Line No : ine 641
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx?MenuEnquDetails=MenuEnqDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2018-01-03 4:12:02 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2018-01-03 4:12:02 PM
+
+Error Line No : ine 641
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx?Enq_AutoID=0+&MenuEnquDetails=MenuEnquDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2018-01-03 4:15:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2018-01-03 4:15:31 PM
+
+Error Line No : ine 641
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx?MenuEnquDetails=MenuEnqDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2018-01-03 4:18:03 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2018-01-03 4:18:03 PM
+
+Error Line No : ine 641
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx?Enq_AutoID=0+&MenuEnquDetails=MenuEnquDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

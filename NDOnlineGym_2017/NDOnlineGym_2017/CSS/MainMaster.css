@@ -1,0 +1,64 @@
+﻿*{ box-sizing: border-box; }
+        body { height: 100%;margin: 0;padding: 0;color: #000000; font-family: Verdana, Geneva, sans-serif; font-size: 11px; text-align: left;}
+       .bgleft {  width: 13%;  background-color:rgb(180, 180, 180);height:662px;} 
+       .bgright { width: 13%; background-color: rgb(180, 180, 180);height:662px;}
+       table { display: table;border-collapse: separate; border-color: grey;overflow: hidden; }
+       .inp-txt { padding:3px 8px;float:left;margin-top:3px;width:250px;  }
+       .divMiddle { width:100%;height:522px;bottom:0px; }
+       .divLogin { width:500px;height:270px;border:1px solid silver;border-radius:3px;background-image:url('../Icon/images (2).jpg')}
+       .innerDiv { width:485px;height:255px;border:1px solid silver;border-radius:3px;margin:7px;background-color:rgb(228, 228, 228); }
+       .innerSubDiv { width:290px;height:253px;float:left;border:1px solid silver;border-radius:3px;float:left;margin-right:0px;
+                      background-color:white;background-image:url('../Icon/Untitled19.png');background-size:cover }
+       .lbl { font-size:12px;float:left  }
+       .btn { padding:5px 10px;margin-top:20px;float:right;margin-right:25px;font-size:14px;  }
+       .divLogoSection { width:183px;height:243px;border:1px solid silver;border-radius:3px;float:left;margin:5px;background-color:white;  }
+       .footer { width:100%;height:100px;bottom:0px;background-image:url('../NotificationIcons/footerImg.png');background-size:100% 100%; }
+       .header { width:100%;height:100px;bottom:0px;background-image:url('../NotificationIcons/header_bg.png');background-size:100% 100% }
+       .lblDate { color:white; margin-left:620px;  }
+       .divSerach { float: right; min-width: 200px; max-width: 800px; width: 100%; margin-top: -30px; margin-right: -350px;}
+        .divMenubar {margin-top:20px;width:100%;border-bottom:3px solid rgb(109, 199, 233);height:33px;  }
+        .drop_menu { padding:0;margin:0;list-style-type:none;height:30px; }
+        .drop_menu li { float:left; }
+        .menu { padding:7px 15px;display:block;color:white;text-decoration:none;font:12px arial, verdana, sans-serif;
+                          border-left:2px solid rgb(109, 199, 233);border-top:2px solid rgb(109, 199, 233);border-right:2px solid rgb(109, 199, 233);
+                          margin-right:2px;margin-left:2px;
+                          /*background-color:rgb(234, 184, 93);*/
+        }
+        .menu1 { padding:7px 15px;display:block;color:black;text-decoration:none;font:12px arial, verdana, sans-serif;color:white;
+                 border-left:2px solid rgb(109, 199, 233);border-top:2px solid rgb(109, 199, 233);border-right:2px solid rgb(109, 199, 233);
+                 margin-right:2px;margin-left:2px;background-color:rgb(109, 199, 233);}
+         .menu-items { margin: 3px 0px 0px 0px; padding: 10px 0px; min-height: 200px; position: absolute;
+                       background-color: white; border-radius: 3px; box-shadow:-2px 2px 10px 4px rgba(0, 0, 0, 0.30); padding:10px;
+                       z-index:10; }
+        
+        /*#menu-items2 {  margin: 3px 0px 0px 0px; padding: 10px 0px; min-height: 200px; position: absolute;
+                   background-color: white; border-radius: 3px; box-shadow:-2px 2px 10px 4px rgba(0, 0, 0, 0.30); padding:10px;
+                  z-index:10; }*/
+        .menu-items ul { list-style:none; margin:0px; padding:0px; width:150px; float:left; }
+        .menu-items ul li{ list-style:none; margin:0px; padding:0px; width:100%;  height:auto; line-height: 25px; }
+        .menu-items ul li:hover{  }
+        .menu-items ul li:hover a{  background-color: whitesmoke; cursor:pointer; text-decoration:underline; }
+        .menu-items ul li a{ background:none; padding:0px 10px; font-size:11px; color:black; float:left; width:100%; text-decoration:none;  }
+        .menu-items ul li strong{ background:none; padding:0px 10px; font-size:11.5px; color:black; float:left; width:100%; }
+        .menu-items ul li a:hover{ text-decoration:none; }
+        .noti-gv-count { float: right; font-size: 12px; padding: 0px 5px; color: black; background-color: whitesmoke; 
+                         line-height: 17px; margin-right: 10px; border-radius: 2px; margin: 5px 20px 0px 0px; }
+        .menu-items ul li.noti-gv-break { padding: 0px 10px; }
+        .menu-items ul li.noti-gv-break:hover { background-color:white;}
+        .aero-search { color: #3B5998; margin: 1px 0px 0px -30px; cursor: pointer; padding: 0px 5px; }
+        .Search-Category { width: 349px; margin: 0px 0px 0px 0px; min-height: 70px; position: absolute;
+            background-color: white; box-shadow: -2px 2px 10px 0px rgba(0, 0, 0, 0.30); padding: 10px; 
+            z-index: 10; font-size:13px; }
+        .Search-Category ul { list-style:none; margin:0px; padding:0px; width:100%; float:left; }
+        .Search-Category ul li { list-style:none; margin:0px; padding:0px; width:100%; line-height:none; float:left; margin-top:5px; }
+        .head-left .Search-Category ul li { line-height:20px; height:auto; }
+        .Search-Category ul li span { color:black; float:left; }
+        .Search-Category ul li .input-ddl { padding:2px 5px; float:left; font-size:13px; }
+        .Search-Category ul li .input-txt { width:100%; padding:3px 5px; float:left; font-size:13px; }
+        .Search-Category ul li .btn-search { margin:0px; }
+        .close-search { color: #3B5998; font-size: 16px; padding: 3px 8px; border-radius: 2px;
+                        position: absolute; line-height: 19px; right: 1px; top:1px; cursor:pointer; }
+        .close-search:hover { background-color:rgb(239, 239, 239);  }
+        .input-search { width:300px; padding:6px 10px; margin:0px; border:solid 1px silver; border-radius:2px; }
+        .btn-search { padding:6px 10px; margin:0px; border-style:none; border:solid 1px orangered; border-radius:2px; 
+                      color:white; background-color:orangered; margin-left:-5px; } 

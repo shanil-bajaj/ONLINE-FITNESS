@@ -1,0 +1,75 @@
+-----------Exception Details on  2017-11-04 6:56:31 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-04 6:56:31 PM
+
+Error Line No : ine 557
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__Followup__Member__37FA4C37". The conflict occurred in database "NDOnlineGym_2017_4", table "dbo.MemberDetails", column 'Member_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?Other_Member_AutoID=3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-04 6:58:54 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-04 6:58:54 PM
+
+Error Line No : ine 557
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__Followup__Member__37FA4C37". The conflict occurred in database "NDOnlineGym_2017_4", table "dbo.MemberDetails", column 'Member_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?Other_Member_AutoID=3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-04 6:59:43 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-04 6:59:43 PM
+
+Error Line No : ine 557
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__Followup__Member__37FA4C37". The conflict occurred in database "NDOnlineGym_2017_4", table "dbo.MemberDetails", column 'Member_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?Other_Member_AutoID=3
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

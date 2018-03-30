@@ -1,0 +1,388 @@
+-----------Exception Details on  2017-09-22 11:50:59 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-22 11:50:59 AM
+
+Error Line No : line 61
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:1225/Expense.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-22 11:50:59 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-22 11:50:59 AM
+
+Error Line No : line 85
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:1225/Expense.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-22 11:50:59 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-22 11:50:59 AM
+
+Error Line No : ine 109
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:1225/Expense.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-22 11:52:21 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-22 11:52:21 AM
+
+Error Line No : line 61
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:1225/Expense.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-22 11:52:21 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-22 11:52:21 AM
+
+Error Line No : line 85
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:1225/Expense.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-22 11:52:21 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-22 11:52:21 AM
+
+Error Line No : ine 109
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:1225/Expense.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-22 11:52:46 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-22 11:52:46 AM
+
+Error Line No : line 61
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:1225/Expense.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-22 11:52:46 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-22 11:52:46 AM
+
+Error Line No : line 85
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:1225/Expense.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-22 11:52:46 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-22 11:52:46 AM
+
+Error Line No : ine 109
+
+Error Message: NullReferenceException
+
+Exception Type: System.NullReferenceException
+
+Error Location : Object reference not set to an instance of an object.
+
+ Error Page Url: http://localhost:1225/Expense.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-22 12:02:07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-22 12:02:07 PM
+
+Error Line No : line 62
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_Expense has too many arguments specified.
+
+ Error Page Url: http://localhost:1225/Expense.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-22 12:02:07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-22 12:02:07 PM
+
+Error Line No : line 86
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_Expense has too many arguments specified.
+
+ Error Page Url: http://localhost:1225/Expense.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-22 12:02:07 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-22 12:02:07 PM
+
+Error Line No : ine 110
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function SP_Expense has too many arguments specified.
+
+ Error Page Url: http://localhost:1225/Expense.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-22 2:32:34 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-22 2:32:34 PM
+
+Error Line No : ine 125
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
+ Error Page Url: http://localhost:1225/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-22 2:33:29 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-22 2:33:29 PM
+
+Error Line No : ine 125
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
+ Error Page Url: http://localhost:1225/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-22 2:34:56 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-22 2:34:56 PM
+
+Error Line No : ine 125
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
+ Error Page Url: http://localhost:1225/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-22 2:35:28 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-22 2:35:28 PM
+
+Error Line No : ine 125
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+
+ Error Page Url: http://localhost:1225/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

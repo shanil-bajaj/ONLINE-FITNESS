@@ -1,0 +1,300 @@
+-----------Exception Details on  2017-09-14 4:42:49 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-14 4:42:49 PM
+
+Error Line No : line 58
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'Username'.
+Invalid column name 'Password'.
+Invalid column name 'Authority'.
+Invalid column name 'Company_AutoID'.
+Invalid column name 'Branch_AutoID'.
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-14 4:42:51 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-14 4:42:51 PM
+
+Error Line No : line 58
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'Username'.
+Invalid column name 'Password'.
+Invalid column name 'Authority'.
+Invalid column name 'Company_AutoID'.
+Invalid column name 'Branch_AutoID'.
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-14 4:42:53 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-14 4:42:53 PM
+
+Error Line No : line 58
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'Username'.
+Invalid column name 'Password'.
+Invalid column name 'Authority'.
+Invalid column name 'Company_AutoID'.
+Invalid column name 'Branch_AutoID'.
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-14 4:42:53 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-14 4:42:53 PM
+
+Error Line No : line 58
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'Username'.
+Invalid column name 'Password'.
+Invalid column name 'Authority'.
+Invalid column name 'Company_AutoID'.
+Invalid column name 'Branch_AutoID'.
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-14 4:42:54 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-14 4:42:54 PM
+
+Error Line No : line 58
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'Username'.
+Invalid column name 'Password'.
+Invalid column name 'Authority'.
+Invalid column name 'Company_AutoID'.
+Invalid column name 'Branch_AutoID'.
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-14 4:42:55 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-14 4:42:55 PM
+
+Error Line No : line 58
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'Username'.
+Invalid column name 'Password'.
+Invalid column name 'Authority'.
+Invalid column name 'Company_AutoID'.
+Invalid column name 'Branch_AutoID'.
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-14 4:44:15 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-14 4:44:15 PM
+
+Error Line No : line 58
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'Username'.
+Invalid column name 'Password'.
+Invalid column name 'Authority'.
+Invalid column name 'Company_AutoID'.
+Invalid column name 'Branch_AutoID'.
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-14 4:46:40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-14 4:46:40 PM
+
+Error Line No : line 58
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'Username'.
+Invalid column name 'Password'.
+Invalid column name 'Authority'.
+Invalid column name 'Company_AutoID'.
+Invalid column name 'Branch_AutoID'.
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-14 4:53:00 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-14 4:53:00 PM
+
+Error Line No : line 58
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid column name 'Username'.
+Invalid column name 'Password'.
+Invalid column name 'Authority'.
+Invalid column name 'Company_AutoID'.
+Invalid column name 'Branch_AutoID'.
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-14 7:12:57 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-14 7:12:57 PM
+
+Error Line No : line 91
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-09-14 7:15:38 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-09-14 7:15:38 PM
+
+Error Line No : line 91
+
+Error Message: IndexOutOfRangeException
+
+Exception Type: System.IndexOutOfRangeException
+
+Error Location : There is no row at position 0.
+
+ Error Page Url: http://localhost:1225/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

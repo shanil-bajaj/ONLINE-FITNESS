@@ -1,0 +1,48 @@
+-----------Exception Details on  2017-12-09 3:16:26 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-09 3:16:26 PM
+
+Error Line No : ine 567
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/AddEnquiry.aspx?Enq_AutoID=2+&FNameDashboard=Dashboard
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-12-09 6:02:12 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-12-09 6:02:12 PM
+
+Error Line No : ine 630
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?Other_Member_AutoID=13+&FNameMemProfile=FNameMemProfile
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

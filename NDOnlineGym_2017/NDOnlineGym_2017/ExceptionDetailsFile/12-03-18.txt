@@ -1,0 +1,48 @@
+-----------Exception Details on  12-03-2018 16:18:55-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12-03-2018 16:18:55
+
+Error Line No : ne 1928
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/demoCourse.aspx?Member_ID=10476+&FNameMemDetails=MemberDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  12-03-2018 18:19:23-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 12-03-2018 18:19:23
+
+Error Line No : ne 1928
+
+Error Message: ThreadAbortException
+
+Exception Type: System.Threading.ThreadAbortException
+
+Error Location : Thread was being aborted.
+
+ Error Page Url: http://localhost:1233/demoCourse.aspx?Member_ID=10476+&FNameMemDetails=MemberDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

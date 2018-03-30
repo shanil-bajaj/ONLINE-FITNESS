@@ -1,0 +1,521 @@
+-----------Exception Details on  2017-11-24 10:23:10 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-24 10:23:10 AM
+
+Error Line No : ine 189
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlStaffName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-24 10:23:37 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-24 10:23:37 AM
+
+Error Line No : ine 189
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlStaffName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-24 10:33:11 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-24 10:33:11 AM
+
+Error Line No : ine 168
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlStaffName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-24 10:46:32 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-24 10:46:32 AM
+
+Error Line No : ine 343
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlStaffName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-24 10:46:35 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-24 10:46:35 AM
+
+Error Line No : ine 343
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlStaffName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-24 10:46:36 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-24 10:46:36 AM
+
+Error Line No : ine 343
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlStaffName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-24 10:46:38 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-24 10:46:38 AM
+
+Error Line No : ine 343
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlStaffName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-24 10:46:39 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-24 10:46:39 AM
+
+Error Line No : ine 343
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlStaffName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-24 10:46:40 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-24 10:46:40 AM
+
+Error Line No : ine 343
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlStaffName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-24 10:46:41 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-24 10:46:41 AM
+
+Error Line No : ine 343
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlStaffName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-24 11:01:03 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-24 11:01:03 AM
+
+Error Line No : ine 343
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlStaffName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-24 11:01:07 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-24 11:01:07 AM
+
+Error Line No : ine 343
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlStaffName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-24 11:01:09 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-24 11:01:09 AM
+
+Error Line No : ine 343
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlStaffName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-24 11:01:10 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-24 11:01:10 AM
+
+Error Line No : ine 343
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlStaffName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-24 11:02:37 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-24 11:02:37 AM
+
+Error Line No : ine 343
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlStaffName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-24 11:03:21 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-24 11:03:21 AM
+
+Error Line No : ine 168
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlStaffName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-24 11:13:40 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-24 11:13:40 AM
+
+Error Line No : ine 168
+
+Error Message: ArgumentOutOfRangeException
+
+Exception Type: System.ArgumentOutOfRangeException
+
+Error Location : 'ddlStaffName' has a SelectedValue which is invalid because it does not exist in the list of items.
+Parameter name: value
+
+ Error Page Url: http://localhost:1232/UserRegistration.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-24 2:42:21 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-24 2:42:21 PM
+
+Error Line No : line 85
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+ Error Page Url: http://localhost:1232/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-24 5:33:56 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-24 5:33:56 PM
+
+Error Line No : ine 762
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'CallResponse' was not found on the selected data source.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?Other_Member_AutoID=73
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-24 5:44:54 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-24 5:44:54 PM
+
+Error Line No : ine 762
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'CallResponse' was not found on the selected data source.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?BalancePayment_Member_AutoID=76
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-11-24 5:47:18 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-11-24 5:47:18 PM
+
+Error Line No : ine 837
+
+Error Message: HttpException
+
+Exception Type: System.Web.HttpException
+
+Error Location : A field or property with the name 'CallResponse' was not found on the selected data source.
+
+ Error Page Url: http://localhost:1232/Followup.aspx?BalancePayment_Member_AutoID=76
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

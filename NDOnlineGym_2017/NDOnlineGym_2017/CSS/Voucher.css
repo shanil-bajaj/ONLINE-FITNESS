@@ -1,0 +1,29 @@
+﻿        .row-half-Twenty { width: 50%;padding: 0px 0px;text-align: left;float: left;list-style: none; margin: 0px;margin: 0px 0px 0px 0px; }
+        .Expensemain { border:2px solid black;height:500px;width:810px;margin-left:2px; }
+         #Expenseheading { font-weight:bold !important;font-size:27px !important;background-color:Silver !important;padding-left:5px !important;padding-right:5px !important; }  
+        .Expenseheading  { margin-top:10px !important; }   
+         #Expenseadd { padding-top:10px;border-bottom:2px solid black; padding-bottom:10px; }
+         #Label2 { font-family:Cambria;font-weight:bold;font-size:18px; }
+        .l1 { border:2px solid black;height:35px;width:320px;margin-left:20px;margin-top:30px;border-radius:8px; }
+        .innerlbl { font-family:Cambria;font-weight:bold;font-size:20px; margin-left:70px;padding-top:7px;border-left:2px solid black; padding-left:5px;padding-bottom:7px; }
+        .voucher { margin-top:30px; margin-left:140px; }
+        #vouch,#vouch tr,#vouch th { border: 2px solid black;border-collapse: collapse; width:270px;height:30px; }
+        .bill { margin-left:20px; margin-top:20px; }
+        #billTable,#billTable tr,#billTable th { border: 2px solid black;border-collapse: collapse;padding-left:10px;padding-top:10px;padding-bottom:10px;text-align:left; }
+        #Label15 { margin-left:670px !important;padding-top:20px !important;font-weight:bold !important;padding-right:30px !important; }
+        #Label16 { float:right;margin-right:20px;font-weight:bold; }
+        .AUTHORIZEDBY { font-weight:bold;border-top:2px solid black; }
+        .SIGNATURE { font-weight:bold;border-top:2px solid black;padding-top:2px;margin-left:570px; }
+       .backcol  { background-color:rgba(0,0,0,0.1); }
+       .Footer { margin-top:-20px; }
+       .btn1 { width: 130px; }
+       .grandParentContaniner  { display: table;height: 100%;margin: 0 auto;  }
+       .parentContainer { display: table-cell; }
+       .btn { padding:8px 20px; margin:0px 0px 0px 0px; background-color:#3B5998; color:white;
+                border:solid 1px lightgray; border-radius:3px; outline:none; cursor:pointer; text-decoration:none; }
+       .btn:focus { box-shadow: 0px 0px 20px rgba(81, 203, 238, 1); }
+       .th1 { width:665px; }
+       .total { font-weight:bold; }
+       .td1{width:650px;}
+       .td2{width:40px;}
+        .company { font-size:13px; }

@@ -1,0 +1,48 @@
+-----------Exception Details on  16-02-2018 5:13:14 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16-02-2018 5:13:14 PM
+
+Error Line No : ne 9740
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Invalid object name 'MemberUpgrade'.
+
+ Error Page Url: http://localhost:1233/demoCourse.aspx?MenuCourseDetails=MenuCourseDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  16-02-2018 6:00:26 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 16-02-2018 6:00:26 PM
+
+Error Line No : line 85
+
+Error Message: InvalidOperationException
+
+Exception Type: System.InvalidOperationException
+
+Error Location : ExecuteReader requires an open and available Connection. The connection's current state is connecting.
+
+ Error Page Url: http://localhost:1233/Login.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

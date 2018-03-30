@@ -1,0 +1,24 @@
+-----------Exception Details on  27-03-2018 17:00:54-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 27-03-2018 17:00:54
+
+Error Line No : ne 1147
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Execution Timeout Expired.  The timeout period elapsed prior to completion of the operation or the server is not responding.
+
+ Error Page Url: http://localhost:1233/MembershipFreezing.aspx?MenuFreezingDetails=MenuFreezingDetails
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

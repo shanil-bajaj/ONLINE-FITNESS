@@ -1,0 +1,198 @@
+-----------Exception Details on  2017-10-16 11:36:56 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-16 11:36:56 AM
+
+Error Line No : line 81
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Procedure or function 'SP_StaffNotificationHome' expects parameter '@Category', which was not supplied.
+
+ Error Page Url: http://localhost:1225/StaffNotificationHome.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-16 3:22:22 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-16 3:22:22 PM
+
+Error Line No : line 92
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__SoftwareU__Compa__2A6B46EF". The conflict occurred in database "NDOnlineGym_2017_2", table "dbo.CompanyInformation", column 'Company_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1225/NewUpdateNotificationHome.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-16 3:22:24 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-16 3:22:24 PM
+
+Error Line No : line 92
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__SoftwareU__Compa__2A6B46EF". The conflict occurred in database "NDOnlineGym_2017_2", table "dbo.CompanyInformation", column 'Company_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1225/NewUpdateNotificationHome.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-16 3:22:26 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-16 3:22:26 PM
+
+Error Line No : line 92
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__SoftwareU__Compa__2A6B46EF". The conflict occurred in database "NDOnlineGym_2017_2", table "dbo.CompanyInformation", column 'Company_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1225/NewUpdateNotificationHome.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-16 3:22:27 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-16 3:22:27 PM
+
+Error Line No : line 92
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__SoftwareU__Compa__2A6B46EF". The conflict occurred in database "NDOnlineGym_2017_2", table "dbo.CompanyInformation", column 'Company_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1225/NewUpdateNotificationHome.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-16 3:25:26 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-16 3:25:26 PM
+
+Error Line No : line 92
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__SoftwareU__Compa__2A6B46EF". The conflict occurred in database "NDOnlineGym_2017_2", table "dbo.CompanyInformation", column 'Company_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1225/NewUpdateNotificationHome.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-16 3:38:40 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-16 3:38:40 PM
+
+Error Line No : line 92
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : The INSERT statement conflicted with the FOREIGN KEY constraint "FK__SoftwareU__Compa__2A6B46EF". The conflict occurred in database "NDOnlineGym_2017_2", table "dbo.CompanyInformation", column 'Company_AutoID'.
+The statement has been terminated.
+
+ Error Page Url: http://localhost:1225/NewUpdateNotificationHome.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  2017-10-16 4:38:16 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 2017-10-16 4:38:16 PM
+
+Error Line No : ine 149
+
+Error Message: ArgumentException
+
+Exception Type: System.ArgumentException
+
+Error Location : Column 'Name' does not belong to table .
+
+ Error Page Url: http://localhost:1225/StaffNotificationHome.aspx
+
+User Host IP: 
+
+
+--------------------------------*End*------------------------------------------
+
+
+

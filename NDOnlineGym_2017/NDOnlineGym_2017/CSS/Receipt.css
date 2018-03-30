@@ -1,0 +1,66 @@
+﻿     .row-half-Twenty1 { width: 25%; } 
+    .btn1 { width:100px; }
+     .li-button {  margin-top: 5px; padding: 10px; }
+     .li-search {  margin-top: 5px; padding: 10px; }
+      body {  height: 70%; }
+      ul { padding:0px;margin:0px; }
+     .grandParentContaniner  { display: table;height: 100%;margin: 0 auto;color:black  }
+     .parentContainer { display: table-cell;vertical-align: middle;color:black }
+     .main { width: 725px;background-color: white;padding: 5px;margin: 10px 0px 0px 0px;border-radius: 3px;float: left;border: solid 1px gray; }
+     .row-full { width: 100%;padding: 0px 10px;list-style: none;float: left; }
+     .row-half-Twenty { width: 20%;padding: 0px 0px;text-align: left;float: left;list-style: none; margin: 0px; }
+      .row-half-Twenty1 { width: 25%;padding: 0px 0px;text-align: left;float: right;list-style: none; margin: 0px; }
+        .row-half-Twenty2 { width: 20%;padding: 0px 0px;text-align: left;float: right;list-style: none; margin: 0px; }
+     .row-half-Thirty { width: 30%;padding: 0px 0px;text-align: left;float: left;list-style: none;margin: 0px; }
+     .row-half-Fourty{  width: 100%;padding: 0px 0px;text-align: left;float: left;list-style: none;margin-bottom: 10px; }
+     .row-half-Fourty1{  width: 100%;padding: 0px 0px;text-align: left;float: right;list-style: none;margin-bottom: 10px; }
+     .row-half-Sixty {  width: 55%;padding: 0px 0px;text-align: left;float: left;list-style: none;margin: 0px; }
+     
+      .div1 { float: left;margin:5px;text-align:center;   }
+       .img-member { width: 100px; height: 100px; border: solid 1px silver; border-radius: 4px; outline: none;  }
+       .CompanyName {text-align: center; width: 400px; font-size: x-large; font-weight: bold;  }
+       .n1 { margin: 10px 0px 0px 0px; }
+       .n2 { text-align: center; width: 400px; }
+       .div2 {  border-bottom: 2px solid black; float: left; padding-bottom: 5px;margin:5px;width:100% }
+       .t1 { width: 650px; margin-top: 5px;margin-left:10px; }
+       .div3 { width:100%; margin: 5px; border-bottom: 2px solid black; float: left; padding-bottom: 5px; }
+       .lbl { margin-left:10px; }
+       .div4 {  float: left; padding-bottom: 5px;width:730px }
+       .s1 { text-align:left; margin-top: 15px; }
+       .s2 { text-align: right; margin-top: 10px; }
+         #Label1 { background-color:silver;font-weight:bold;font-size:20px;text-align:center;padding-left:2px; padding-right:2px;
+                  font-family:Cambria;padding-bottom:2px; padding-top:2px; }
+          body {
+            height: 100%;
+        }
+        .row-half-Ten { width: 10%;padding: 0px 0px;text-align: left;float: left;list-style: none; margin: 0px; border:0.5px solid black }
+        .row-half-Fifty { width: 50%;padding: 0px 0px;text-align: left;float: left;list-style: none; margin: 0px; }
+        .xx {  background: yellow;  color: red;  font-weight: bold; padding:0px; text-align: right;}
+        .divfifty{width:50%; float:left;padding-right:3px;}
+        .divthirty{width:30%; float:left; border-right:0.5px solid black; padding:3px;font-weight:bold}
+        .divseventy{width:70%; float:left; padding:3px; overflow:hidden;}
+        .grandParentContaniner1 {
+            display: table;
+            height: 100%;
+            margin: 0 auto;
+        }
+        
+        .parentContainer1 {
+            display: table-cell;
+            vertical-align: middle;
+        }
+
+      /*table, td, th { border: 2px solid black;text-align: left; }
+      table { border-collapse: collapse;width: 100%; }
+      th, td { padding: 10px; }*/
+
+
+      .member-table { border-collapse:collapse;border:2px solid black;margin-top:10px;width: 100%; }
+      .member-table th ,.member-table td { padding:3px;text-align: left;border:2px solid black;  }
+      .member-Course {  border-collapse:collapse;border:2px solid black;margin-top:10px;width: 100%;  }
+      .member-Course th ,.member-Course td {  padding:3px;text-align: left;border:2px solid black;   }
+      .total { text-align:right }
+      .a { width: 725px; }
+      .b {  width:100%;border:1px solid black;padding:10px; }
+       .membersign { margin-top: 30px; margin-left: 10px;  }
+.div-sign { margin-top:-25px }
